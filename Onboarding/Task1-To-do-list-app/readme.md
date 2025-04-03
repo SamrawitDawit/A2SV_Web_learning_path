@@ -10,7 +10,7 @@ A simple todo list application built with HTML, CSS, and JavaScript that allows 
 - Tasks persist between page refreshes (using localStorage)
 
 ## Screenshots
-![screenshot of to do app](image-1.png)
+![screenshot of to do app](image.png)
 ## How to Run
 
 1. Clone this repository or download the files
